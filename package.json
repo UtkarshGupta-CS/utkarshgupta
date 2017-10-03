@@ -11,7 +11,10 @@
     "type": "git",
     "url": "git+https://github.com/UtkarshGupta-CS/resume-website.git"
   },
-  "keywords": ["portfolio", "resume"],
+  "keywords": [
+    "portfolio",
+    "resume"
+  ],
   "author": "Utkarsh Gupta <utgupta1997@gmail.com>",
   "license": "MIT",
   "bugs": {
