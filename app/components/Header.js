@@ -7,6 +7,7 @@ class Header extends Component {
         style={{
           textAlign: 'center',
         }}
+        className="heading"
       >
         <h1>Header</h1>
       </div>

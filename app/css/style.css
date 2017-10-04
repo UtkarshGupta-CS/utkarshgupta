@@ -2,3 +2,89 @@
   background-color: #292b2c;
   color: #ffffff;
 }
+
+body {
+  font-family: 'Fira Mono', monospace;
+}
+
+@media screen and (max-width: 420px) and (min-width: 375px) {
+  body {
+    font-size: 0.5em;
+  }
+}
+
+.content {
+  display: block;
+  width: 80%;
+  max-width: 43.5em;
+  margin: 0 auto;
+  padding: 1em 1em;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+}
+
+.heading {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.list {
+  display: block;
+  width: 80%;
+  max-width: 46em;
+  margin: 0 auto;
+}
+
+.icons {
+  display: block;
+  width: 80%;
+  max-width: 44em;
+  margin: 0 auto;
+}
+
+p {
+  font-size: 1em;
+}
+
+h2 {
+  margin-top: 30px;
+}
+
+.username {
+  font-size: 1.2em;
+  text-decoration: none;
+  color: gray;
+  margin-top: 30px;
+}
+
+li {
+  text-decoration: none;
+  list-style: none;
+  padding: 7px;
+}
+
+a {
+  text-decoration: none;
+}
+
+/* Visual */
+
+img {
+  border-radius: 50%;
+  padding-right: 5px;
+}
+
+i {
+  padding: 8px;
+}
+
+a {
+  color: black;
+}
