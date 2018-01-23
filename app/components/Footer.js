@@ -19,6 +19,10 @@ export default class Footer extends Component {
 				icon: 'fa fa-linkedin-square fa-2x',
 				link: 'https://www.linkedin.com/in/utkarshgupta97',
 			},
+			{
+				icon: 'fa fa-angellist fa-2x',
+				link: 'https://angel.co/utkarshgupta97',
+			},
 		],
 	};
 
