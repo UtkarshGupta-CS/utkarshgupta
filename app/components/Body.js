@@ -10,7 +10,7 @@ class Body extends Component {
 				Check out my
 				<a href="https://github.com/UtkarshGupta-CS/"> Github </a>
 				for my side projects and Open Source work. You can also check out my
-				<a href="https://drive.google.com/open?id=1TNCLkcLq-FRL6Mg8E0QyiZvdp-x6f_ga"> Resume </a>
+				<a href="https://drive.google.com/open?id=1ifR-vtt1YvO9Yd9G0AjOZ2b7sGztiW7L"> Resume </a>
 				for more details.
 			</div>
 		);
